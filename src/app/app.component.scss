@@ -1,0 +1,10 @@
+.input{
+  outline: none;
+  border-radius: 5px;
+  padding: 10px 5px;
+}
+
+.list span{
+  @apply truncate text-center;
+  width: 30%;
+}
